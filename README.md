@@ -10,7 +10,10 @@ Slack terminal client.
 
 To use `slash` install it via:
 
-`brew install https://raw.githubusercontent.com/slash-hq/slash/master/slash.rb` 
+```
+brew tap gamerwaves/slash
+brew install slash
+```
 
 and start it by running:
 
